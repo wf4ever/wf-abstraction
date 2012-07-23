@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0" errors="0" skipped="0" tests="0" name="es.isoco.trie.TrieTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre\bin"/>
+    <property name="java.vm.version" value="22.0-b10"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation"/>
+    <property name="java.runtime.version" value="1.7.0_02-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation"/>
+    <property name="java.endorsed.dirs" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="surefire.real.class.path" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\surefire\surefirebooter8165709049127000532.jar"/>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\egarcia\CONFIG~1\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Archivos de programa/Java/jre7/bin/client;C:/Archivos de programa/Java/jre7/bin;C:/Archivos de programa/Java/jre7/lib/i386;C:\Archivos de programa\MiKTeX 2.9\miktex\bin;C:\Archivos de programa\PHP5.3;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Archivos de programa\Archivos comunes\Roxio Shared\DLLShared\;C:\Archivos de programa\Archivos comunes\Roxio Shared\9.0\DLLShared\;C:\Archivos de programa\Apache Software Foundation\apache-maven-2.1.0\bin;C:\Archivos de programa\Java\jdk1.6.0_13\bin;C:\Archivos de programa\TortoiseSVN\bin;C:\Archivos de programa\Apache Software Foundation\axis2-1.4.1\bin;C:\android-sdk-windows\tools;C:\ARCHIV~1\cvsnt;C:\Archivos de programa\OpenVPN\bin;C:\Documents and Settings\egarcia;;."/>
+    <property name="surefire.test.class.path" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\test-classes;C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\classes;C:\Documents and Settings\egarcia\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.3\jackson-mapper-asl-1.9.3.jar;C:\Documents and Settings\egarcia\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.3\jackson-core-asl-1.9.3.jar;C:\Documents and Settings\egarcia\.m2\repository\com\sun\jersey\jersey-client\1.11\jersey-client-1.11.jar;C:\Documents and Settings\egarcia\.m2\repository\com\sun\jersey\jersey-core\1.11\jersey-core-1.11.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="5.1"/>
+    <property name="user.home" value="C:\Documents and Settings\egarcia"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="egarcia"/>
+    <property name="java.class.path" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\test-classes;C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\classes;C:\Documents and Settings\egarcia\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.3\jackson-mapper-asl-1.9.3.jar;C:\Documents and Settings\egarcia\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.3\jackson-core-asl-1.9.3.jar;C:\Documents and Settings\egarcia\.m2\repository\com\sun\jersey\jersey-client\1.11\jersey-client-1.11.jar;C:\Documents and Settings\egarcia\.m2\repository\com\sun\jersey\jersey-core\1.11\jersey-core-1.11.jar;"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre"/>
+    <property name="sun.java.command" value="C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\surefire\surefirebooter8165709049127000532.jar C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\surefire\surefire1918231546316988629tmp C:\Documents and Settings\egarcia\workspace\WFRecommendation\target\surefire\surefire4754107080275166606tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="es"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.7.0_02"/>
+    <property name="java.ext.dirs" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\resources.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\rt.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\sunrsasign.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\jsse.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\jce.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\lib\charsets.jar;C:\Archivos de programa\Java\jdk1.7.0_02\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="C:\Documents and Settings\egarcia\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+</testsuite>
