@@ -12,8 +12,8 @@ import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.WebResource;
 
 public class QueryRodl {
-	//public static final URI DEFAULT_BASE = URI.create("http://calatola.man.poznan.pl/rosrs5/");
-	public static final URI DEFAULT_BASE = URI.create("http:/test-wf4ever.isoco.com/sparql/");
+	
+	public static final URI DEFAULT_BASE = URI.create("http:/repos-wf4ever.isoco.com/sparql/");
 	
 	Client client = Client.create();
 	ObjectMapper mapper = new ObjectMapper();

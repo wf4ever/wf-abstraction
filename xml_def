@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trie SYSTEM "Trie.dtd">
+
+<TRIE DEPTH="0">
+	<NODE NAME="PROCESS1" LEVEL="1" PROB="0.1" FREQ="10"/>
+	<NODE NAME="PROCESS2" LEVEL="1" PROB="0.2" FREQ="20"/>
+	<NODE NAME="PROCESS3" LEVEL="1" PROB="0.7" FREQ="70"/>
+</TRIE>
+
+
+<TRIE DEPTH="3">
+	<
+
+</TRIE>
